@@ -1,0 +1,15 @@
+C:\Users\railw\source\repos\Программы\Программы\bin\Debug\net6.0\Программы.exe
+C:\Users\railw\source\repos\Программы\Программы\bin\Debug\net6.0\Программы.deps.json
+C:\Users\railw\source\repos\Программы\Программы\bin\Debug\net6.0\Программы.runtimeconfig.json
+C:\Users\railw\source\repos\Программы\Программы\bin\Debug\net6.0\Программы.dll
+C:\Users\railw\source\repos\Программы\Программы\bin\Debug\net6.0\Программы.pdb
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\Программы.csproj.AssemblyReference.cache
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\Программы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\Программы.AssemblyInfoInputs.cache
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\Программы.AssemblyInfo.cs
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\Программы.csproj.CoreCompileInputs.cache
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\Программы.dll
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\refint\Программы.dll
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\Программы.pdb
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\Программы.genruntimeconfig.cache
+C:\Users\railw\source\repos\Программы\Программы\obj\Debug\net6.0\ref\Программы.dll
